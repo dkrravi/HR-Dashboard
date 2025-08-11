@@ -1,1 +1,1 @@
-![Dashboard]("HR Dashboard.jpg")
+![Dashboard](HR%20Dashboard.jpg)
